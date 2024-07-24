@@ -33,14 +33,6 @@ To run the chatbot, execute the following command:
 ```bash
 streamlit run app.py
 
-##configuration
+This will start a local Streamlit server, and you can interact with the chatbot via your web browser at `http://localhost:8501`.
 
-The application uses environment variables for configuration. Create a .env file in the root directory and add the following entries:
-
-##features
-
-1. Interactive Chat Interface: User-friendly interface to interact with the chatbot.
-2. Real-time Responses: Leveraging Google Generative AI for generating responses to user prompts.
-3. Easy Configuration: Environment variables managed through dotenv for secure API key handling.
-
- 
+```The application uses environment variables for configuration. Create a .env file in the root directory and add the following entries:
