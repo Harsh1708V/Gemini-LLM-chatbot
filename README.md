@@ -16,7 +16,7 @@ To install and run the Gemini LLM Chatbot, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/gemini-llm-chatbot.git
+    git clone https://github.com/Harsh1708V/Gemini-LLM-chatbot.git
     cd gemini-llm-chatbot
     ```
 
